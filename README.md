@@ -22,34 +22,59 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1: Configure Roles, Departments, and Teams
+- Item 2: Configure Agents 
+- Item 3: Configure Users 
+- Item 4: SLA Configuration
+- Item 5: Help Topic Configuration 
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/noahclaxton227/post-install-config/assets/150629711/bba74187-6e60-4dbc-81f9-639f5f858e58)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Explain what a role is and mention teams 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/noahclaxton227/post-install-config/assets/150629711/ef02294a-15b7-4c25-af5d-b5f20394ee37)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Mention their departments 
+</p>
+<br />
+
+<p>
+  
+![image](https://github.com/noahclaxton227/post-install-config/assets/150629711/1a5d0f10-5c49-4be5-be87-e7f0bc19205c)
+
+</p>
+<p>
+Agent Panel --> Users 
+</p>
+<br />
+
+<p>
+  
+![image](https://github.com/noahclaxton227/post-install-config/assets/150629711/d63d9b6d-32e1-437c-a490-1ef9f61bb7d9)
+
+</p>
+<p>
+Admin Panel --> Manage --> SLA 
+</p>
+<br />
+
+<p>
+  
+![image](https://github.com/noahclaxton227/post-install-config/assets/150629711/9949e0e0-5c1b-4d85-92b8-cc5e590c3288)
+
+</p>
+<p>
+What is a Help Topic
 </p>
 <br />
